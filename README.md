@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>2017TC-EDM-01</title>
+2017TC-EDM-01
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -18,14 +18,12 @@
 				<img src="https://github.com/tcchambermusic/edm1701/blob/master/2017TC-EDM-01_02.gif" width="310" height="180" border="0" alt=""></a></td>
 		<td colspan="3" rowspan="2">
 			<img src="https://github.com/tcchambermusic/edm1701/blob/master/2017TC-EDM-01_03.gif" width="286" height="347" alt=""></td>
-		<td>
-			<img src="https://github.com/tcchambermusic/edm1701/blob/master/00.gif" width="1" height="180" alt=""></td>
+		
 	</tr>
 	<tr>
 		<td rowspan="3">
 			<img src="https://github.com/tcchambermusic/edm1701/blob/master/2017TC-EDM-01_04.gif" width="310" height="366" alt=""></td>
-		<td>
-			<img src="https://github.com/tcchambermusic/edm1701/blob/master/00.gif" width="1" height="167" alt=""></td>
+		
 	</tr>
 	<tr>
 		<td rowspan="2">
@@ -42,15 +40,13 @@
 	<tr>
 		<td colspan="2">
 			<img src="https://github.com/tcchambermusic/edm1701/blob/master/2017TC-EDM-01_08.gif" width="234" height="108" alt=""></td>
-		<td>
-			<img src="https://github.com/tcchambermusic/edm1701/blob/master/00.gif" width="1" height="108" alt=""></td>
+		
 	</tr>
 	<tr>
 		<td colspan="4">
 			<a href="https://goo.gl/5mPXDF">
 				<img src="https://github.com/tcchambermusic/edm1701/blob/master/2017TC-EDM-01_09.gif" width="596" height="115" border="0" alt=""></a></td>
-		<td>
-			<img src="https://github.com/tcchambermusic/edm1701/blob/master/00.gif" width="1" height="115" alt=""></td>
+		
 	</tr>
 </table>
 <!-- End Save for Web Slices -->
