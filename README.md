@@ -10,7 +10,7 @@
 		<td colspan="4">
 			<img src="https://tcchambermusic.github.io/edm1701/2017TC-EDM-01_01.gif" width="596" height="473" alt=""></td>
 		<td>
-			<img src="https://tcchambermusic.github.io/edm1701/00.gif" width="1" height="473" alt=""></td>
+			<img src="https://tcchambermusic.github.io/edm1701/00.gif" width="0" height="473" alt=""></td>
 	</tr>
 	<tr>
 		<td>
